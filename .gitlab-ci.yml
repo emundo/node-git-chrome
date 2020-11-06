@@ -1,0 +1,4 @@
+include:
+  - project: templates/gitlab-ci-templates
+    file: docker-build.gitlab-ci.yml
+
